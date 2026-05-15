@@ -239,10 +239,10 @@ This work implements the paper [*The Pitfalls of KV Cache Compression*](https://
 
 
 ```
-@misc{chen2025pitfallskvcachecompression,
+@misc{chen2026pitfallskvcachecompression,
       title={The Pitfalls of KV Cache Compression}, 
       author={Alex Chen and Renato Geh and Aditya Grover and Guy Van den Broeck and Daniel Israel},
-      year={2025},
+      year={2026},
       eprint={2510.00231},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
