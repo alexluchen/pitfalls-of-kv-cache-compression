@@ -235,7 +235,7 @@ You are free to share and adapt the material for any purpose, even commercially,
 
 ## How to cite
 
-This work implements the paper [*The Pitfalls of KV Cache Compression*](https://arxiv.org/abs/2510.00231).
+This work implements the paper [*The Pitfalls of KV Cache Compression*](https://aclanthology.org/2026.acl-long.1926.pdf).
 
 
 ```
