@@ -4,7 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
-This repository contains the code for [*The Pitfalls of KV Cache Compression*](https://arxiv.org/abs/2510.00231).
+This repository contains the code for [*The Pitfalls of KV Cache Compression*](https://aclanthology.org/2026.acl-long.1926.pdf).
 
 > **_TL;DR_**: for prompts with multiple instructions, KV cache compression can lead to some instructions being ignored. We propose simple changes to KV cache eviction policies that fix this. 
 
