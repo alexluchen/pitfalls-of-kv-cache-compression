@@ -1,6 +1,6 @@
 # The Pitfalls of KV Cache Compression
 
-[![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-2026.acl--long.1926-blue)](https://aclanthology.org/2026.acl-long.1926/)
+[![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-2026.acl--long.1926-A32638)](https://aclanthology.org/2026.acl-long.1926/)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.00231-blue?link=https%3A%2F%2Farxiv.org%2Fabs%2F2510.00231)](https://arxiv.org/abs/2510.00231)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
